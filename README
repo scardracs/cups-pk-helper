@@ -1,0 +1,56 @@
+cups-pk-helper
+==============
+
+http://www.freedesktop.org/wiki/Software/cups-pk-helper
+
+cups-pk-helper is a PolicyKit helper to configure cups with fine-grained
+privileges.
+
+For example, it's possible to let users enable/disable printers without
+requiring a password, while still requiring a password for editing printer
+settings. The full list of policies is described in
+src/org.opensuse.cupspkhelper.mechanism.policy.in.
+
+You may download updates to the package from:
+
+   https://www.freedesktop.org/software/cups-pk-helper/releases/
+
+
+Installation
+============
+
+You can use one of these commands to install cups-pk-helper:
+
+DESTDIR=/path/to/staging/area meson install
+meson install --destdir=/path/to/staging/area
+
+Or just "meson install" if you've set "prefix" option before.
+
+
+How to report bugs
+==================
+
+Please report found issues and feature requests in freedesktop.org's GitLab:
+
+   https://gitlab.freedesktop.org/cups-pk-helper/cups-pk-helper/-/issues
+
+You will need to create an account for yourself.
+
+Please read the following page on how to prepare a useful bug report:
+
+   https://bugs.freedesktop.org/page.cgi?id=bug-writing.html
+
+Please read the HACKING file for information on where to send changes or
+bugfixes for this package.
+
+
+Code of Conduct
+===============
+
+cups-pk-helper project has adopted Code of Conduct of freedesktop.org.
+In short, it requires everyone participating in discussion on freedesktop.org
+to engage in good faith, to treat those around them like human beings,
+and to refrain from bullying behaviour, harrassment or discrimination.
+
+For additional info see https://www.freedesktop.org/wiki/CodeOfConduct
+

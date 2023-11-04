@@ -1,0 +1,30 @@
+Hacking on cups-pk-helper
+=========================
+
+ + The development occurs in freedesktop.org's GitLab:
+
+     https://gitlab.freedesktop.org/cups-pk-helper/cups-pk-helper/
+
+   For information on how to access freedesktop.org's GitLab please read:
+
+     http://www.freedesktop.org/wiki/Infrastructure/git
+
+ + Please report found issues and feature requests in freedesktop.org's GitLab:
+
+     https://gitlab.freedesktop.org/cups-pk-helper/cups-pk-helper/-/issues
+
+ + Please send your changes as merge requests in freedesktop.org's GitLab:
+
+     https://gitlab.freedesktop.org/cups-pk-helper/cups-pk-helper/-/merge_requests
+
+ + Please try and send merge requests against a recent version of this package.
+   Patches against git master are most preferable.
+
+ + Don't commit any but the most trivial patches without approval.
+
+ + Exceptions to this are:
+
+   - Translators may commit basic i18n related patches to the build
+     setup.
+   - Build sheriff are welcome - in accordance with the relevant build
+     sheriff constraints.

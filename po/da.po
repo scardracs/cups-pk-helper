@@ -1,0 +1,111 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# Joe Hansen <joedalton2@yahoo.dk>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: cups-pk-helper\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-22 20:04+0100\n"
+"PO-Revision-Date: 2010-11-30 06:44+0000\n"
+"Last-Translator: Joe Hansen <joedalton2@yahoo.dk>, 2013\n"
+"Language-Team: Danish (http://www.transifex.com/freedesktop/cups-pk-helper/language/da/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: da\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:1
+msgid "Add/Remove/Edit a class"
+msgstr "Tilføj/fjern/rediger en klasse"
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:2
+msgid "Add/Remove/Edit a local printer"
+msgstr "Tilføj/fjern/rediger en lokal printer"
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:3
+msgid "Add/Remove/Edit a printer"
+msgstr "Tilføj/fjern/rediger en printer"
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:4
+msgid "Add/Remove/Edit a remote printer"
+msgstr "Tilføj/fjern/rediger en ekstern printer"
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:5
+msgid "Change printer settings"
+msgstr "Ændr printerindstillinger"
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:6
+msgid "Enable/Disable a printer"
+msgstr "Aktiver/deaktiver en printer"
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:7
+msgid "Get list of available devices"
+msgstr "Indhent liste over tilgængelige enheder"
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:8
+msgid "Get/Set server settings"
+msgstr "Indhent/sæt serverindstillinger"
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:9
+msgid "Privileges are required to add/remove/edit a class."
+msgstr "Privilegier er krævet for at tilføje/fjerne/redigere en klasse."
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:10
+msgid "Privileges are required to add/remove/edit a local printer."
+msgstr "Privilegier er krævet for at tilføje/fjerne/redigere en lokal printer."
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:11
+msgid "Privileges are required to add/remove/edit a printer."
+msgstr "Privilegier er krævet for at tilføje/fjerne/redigere en printer."
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:12
+msgid "Privileges are required to add/remove/edit a remote printer."
+msgstr "Privilegier er krævet for at tilføje/fjerne/redigere en ekstern printer."
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:13
+msgid ""
+"Privileges are required to change printer settings. This should only be "
+"needed from the Printers system settings panel."
+msgstr "Privilegier er krævet for at ændre printerindstillinger. Dette bør kun være krævet fra printerens panel med systemindstillinger."
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:14
+msgid "Privileges are required to enable/disable a printer, or a class."
+msgstr "Privilegier er krævet for at aktivere/deaktivere en printer eller en klasse."
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:15
+msgid "Privileges are required to get list of available devices."
+msgstr "Privilegier er krævet for at indhente en liste over tilgængelige enheder."
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:16
+msgid "Privileges are required to get/set server settings."
+msgstr "Privilegier er krævet for at indhente/angive serverindstillinger."
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:17
+msgid ""
+"Privileges are required to restart/cancel/edit a job owned by another user."
+msgstr "Privilegier er krævet for at genstarte/afbryde/redigere et job ejet af en anden bruger."
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:18
+msgid "Privileges are required to restart/cancel/edit a job."
+msgstr "Privilegier er krævet for at genstarte/afbryde/redigere et job."
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:19
+msgid ""
+"Privileges are required to set a printer, or a class, as default printer."
+msgstr "Privilegier er krævet for at indstille en printer eller en klasse som standardprinter."
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:20
+msgid "Restart/Cancel/Edit a job"
+msgstr "Genstart/afbryd/rediger et job"
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:21
+msgid "Restart/Cancel/Edit a job owned by another user"
+msgstr "Genstart/afbryd/rediger et job ejet af en anden bruger"
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:22
+msgid "Set a printer as default printer"
+msgstr "Angiv en printer som standardprinter"

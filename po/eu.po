@@ -1,0 +1,111 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# 
+# Translators:
+# assar <asier.sarasua@gmail.com>, 2013
+msgid ""
+msgstr ""
+"Project-Id-Version: cups-pk-helper\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-03-22 20:04+0100\n"
+"PO-Revision-Date: 2010-11-30 06:44+0000\n"
+"Last-Translator: assar <asier.sarasua@gmail.com>, 2013\n"
+"Language-Team: Basque (http://www.transifex.com/freedesktop/cups-pk-helper/language/eu/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: eu\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:1
+msgid "Add/Remove/Edit a class"
+msgstr "Gehitu/kendu/editatu klase bat"
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:2
+msgid "Add/Remove/Edit a local printer"
+msgstr "Gehitu/kendu/editatu inprimagailu lokal bat"
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:3
+msgid "Add/Remove/Edit a printer"
+msgstr "Gehitu/kendu/editatu inprimagailu bat"
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:4
+msgid "Add/Remove/Edit a remote printer"
+msgstr "Gehitu/kendu/editatu urruneko inprimagailu bat"
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:5
+msgid "Change printer settings"
+msgstr "Aldatu inprimagailu-ezarpenak"
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:6
+msgid "Enable/Disable a printer"
+msgstr "Gaitu/desgaitu inprimagailu bat"
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:7
+msgid "Get list of available devices"
+msgstr "Eskuratu gailu erabilgarrien zerrenda"
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:8
+msgid "Get/Set server settings"
+msgstr "Eskuratu/ezarri zerbitzari-ezarpenak"
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:9
+msgid "Privileges are required to add/remove/edit a class."
+msgstr "Pribilegioak behar dira klase bat gehitu/kendu/editatzeko."
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:10
+msgid "Privileges are required to add/remove/edit a local printer."
+msgstr "Pribilegioak behar dira inprimagailu lokal bat gehitu/kendu/editatzeko."
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:11
+msgid "Privileges are required to add/remove/edit a printer."
+msgstr "Pribilegioak behar dira inprimagailu bat gehitu/kendu/editatzeko."
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:12
+msgid "Privileges are required to add/remove/edit a remote printer."
+msgstr "Pribilegioak behar dira urruneko inprimagailu bat gehitu/kendu/editatzeko."
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:13
+msgid ""
+"Privileges are required to change printer settings. This should only be "
+"needed from the Printers system settings panel."
+msgstr "Pribilegioak behar dira inprimagailu-ezarpenak aldatzeko. Inprimagailuen sistema-ezarpenen paneletik soilik izan beharko litzateke beharrezkoa hori egitea."
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:14
+msgid "Privileges are required to enable/disable a printer, or a class."
+msgstr "Pribilegioak behar dira inrpimagailu bat edo klase bat gaitu/desgaitzeko."
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:15
+msgid "Privileges are required to get list of available devices."
+msgstr "Pribilegioak behar dira gailu erabilgarrien zerrenda eskuratzeko."
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:16
+msgid "Privileges are required to get/set server settings."
+msgstr "Pribilegioak behar dira zerbitzari-ezarpenak eskuratu eta ezartzeko."
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:17
+msgid ""
+"Privileges are required to restart/cancel/edit a job owned by another user."
+msgstr "Pribilegioak behar dira beste erabiltzaile batek jabegoan duen lan bat berrabiarazi/utzi/editatzeko."
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:18
+msgid "Privileges are required to restart/cancel/edit a job."
+msgstr "Pribilegioak behar dira lan bat berrabiarazi/utzi/editatzeko."
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:19
+msgid ""
+"Privileges are required to set a printer, or a class, as default printer."
+msgstr "Pribilegioak behar dira inprimagailu edo klase bat inprimagailu lehenetsi gisa ezartzeko."
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:20
+msgid "Restart/Cancel/Edit a job"
+msgstr "Berrabiarazi/utzi/editatu lan bat"
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:21
+msgid "Restart/Cancel/Edit a job owned by another user"
+msgstr "Berrabiarazi/utzi/editatu beste erabiltzaile baten lan bat"
+
+#: ../src/org.opensuse.cupspkhelper.mechanism.policy.in.h:22
+msgid "Set a printer as default printer"
+msgstr "Ezarri inprimagailu bat lehenetsi gisa "
